@@ -1,16 +1,18 @@
 # startupnamer
 
-A new Flutter application.
-
-## Getting Started
-
+My first Flutter application for learning purposes.
 This project is a starting point for a Flutter application.
+I followed the instructions from [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab).
 
-A few resources to get you started if this is your first Flutter project:
+## License
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+Copyright 2018 The Flutter team. All rights reserved.
+Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.
+
+## Documentation
+
+[Official online documentation](https://flutter.dev/docs)
+
+## Other resources
+
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
